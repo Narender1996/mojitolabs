@@ -4,7 +4,7 @@ import PageBanner from '../components/Common/PageBanner';
 import App from '../components/technologies/App';
 import Footer from '../components/Layouts/Footer';
 import WorkingProcess from '../components/HomeTwo/WorkingProcess';
-
+import Appdev from '../components/information/appdev';
 class app extends Component {
     render() {
         return (
@@ -17,6 +17,7 @@ class app extends Component {
                     breadcrumbUrl="/" 
                 />
                 <App />
+                <Appdev/>
                 <WorkingProcess />
 
                 <Footer />

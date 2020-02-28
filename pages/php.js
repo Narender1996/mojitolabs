@@ -5,7 +5,7 @@ import Php from '../components/technologies/php';
 import SolutionsTab from '../components/Common/SolutionsTab';
 import Footer from '../components/Layouts/Footer';
 import WorkingProcess from '../components/HomeTwo/WorkingProcess';
-
+import Phpinfo from '../components/information/php';
 class php extends Component {
     render() {
         return (
@@ -18,7 +18,8 @@ class php extends Component {
                     breadcrumbUrl="/" 
                 />
                 <Php />
-                <SolutionsTab />
+                <Phpinfo />
+                
                 <WorkingProcess />
 
                 <Footer />

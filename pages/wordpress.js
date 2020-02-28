@@ -4,6 +4,7 @@ import PageBanner from '../components/Common/PageBanner';
 import Wordpress from '../components/technologies/wordpress';
 import Footer from '../components/Layouts/Footer';
 import WorkingProcess from '../components/HomeTwo/WorkingProcess';
+import Wordpressinfo from '../components/information/wordpress';
 
 class wordpress extends Component {
     render() {
@@ -17,6 +18,7 @@ class wordpress extends Component {
                     breadcrumbUrl="/" 
                 />
                 <Wordpress />
+                <Wordpressinfo />
                 <WorkingProcess />
 
                 <Footer />

@@ -4,7 +4,7 @@ import PageBanner from '../components/Common/PageBanner';
 import Magento from '../components/technologies/magento';
 import Footer from '../components/Layouts/Footer';
 import WorkingProcess from '../components/HomeTwo/WorkingProcess';
-
+import Magentoinfo from '../components/information/magento';
 class magento extends Component {
     render() {
         return (
@@ -17,6 +17,7 @@ class magento extends Component {
                     breadcrumbUrl="/" 
                 />
                 <Magento />
+                <Magentoinfo />
                 <WorkingProcess />
 
                 <Footer />
