@@ -7,8 +7,8 @@ class OurServices extends Component {
             <section className="data-service-section pb-100">
                 <div className="container">
                     <div className="section-title">
-                        <span>Our Services</span>
-                        <h2>Explore Our  Services</h2>
+                 
+                        <h2> Our  Services</h2>
                     </div>
 
                     <div className="row align-items-center">

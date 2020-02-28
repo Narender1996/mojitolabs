@@ -5,7 +5,8 @@ import React, { useState } from 'react';
 const FieldShow = (props) => {
 if (props.title==="PHP") {
     return(<div>
-        sadsadsad
+
+        
     </div>)
 } else if(props.title=="Shopify") {
     return(<div>

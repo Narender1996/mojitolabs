@@ -8,7 +8,7 @@ class FeaturedService extends Component {
                     <div className="row align-items-center">
                         <div className="col-lg-6">
                             <div className="software-content">
-                                <span>Our Featured Services</span>
+                                <span>Our Services</span>
                                 <h2>Software Developement Services</h2>
                                 <p></p>
 
@@ -17,7 +17,7 @@ class FeaturedService extends Component {
                                         <span>Shopify</span>
                                     </li>
                                     <li>
-                                        <span>Magento</span>
+                                        <span>Web Developement</span>
                                     </li>
                                     <li>
                                         <span>Wordpress</span>

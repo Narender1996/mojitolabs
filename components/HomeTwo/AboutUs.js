@@ -27,7 +27,7 @@ class AboutUs extends Component {
                                    
                                     <li>
                                         <i className="flaticon-tick"></i>
-                                        specialist in Shopify
+                                        Specialist in Shopify
                                     </li>
                                     <li>
                                         <i className="flaticon-tick"></i>
