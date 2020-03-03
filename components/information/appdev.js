@@ -39,11 +39,11 @@ class appdev extends Component {
                             </li>
 
                             <li onClick={(e) => this.openTabSection(e, 'tab3')}>
-                                <span>DATABASE</span>
+                                <span>React Native</span>
                             </li>
 
                             <li onClick={(e) => this.openTabSection(e, 'tab4')}>
-                                <span>FRAMEWORK</span>
+                                <span>Phonegap</span>
                             </li>
                         </ul>
 
@@ -54,21 +54,33 @@ class appdev extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-7">
                                         <div className="tab-solution-content">
-                                            <h3>IOS</h3>
-                                            <p>Shopify is a subscription to a software service that offers you to create a website and use their shopping cart solution to sell, ship, and manage your products. Using their service, you can get access to easy to use admin panel where you can add products, process orders and enter store data</p>
+                                            <h3>All the services you need in iOS</h3>
+                                            <p>The iOS platform is loved by all Apple users, designing apps for the iPhone seems a natural thing to do.!
+
+                                            Among the many iPhone apps development companies, we stand on our own. Our creativity and understanding of the iOS platform goes a long way to create apps designed for this niche – so that your user base gets apps that are friendly and easy to use. We are always up to date with technology, so you need not worry about iPhone Application Development at all.</p>
+
+                                            <h5>Our IOS development services:</h5>
 
                                             <ul className="tab-list">
                                                 <li>
                                                     <i className="flaticon-tick-1"></i>
-                                                    Innovation idea the latest business technology
+                                                    iPhone and iPad Application Development
                                                 </li>
                                                 <li>
                                                     <i className="flaticon-tick-1"></i>
-                                                    Safe secure services for your online email account
+                                                    mCommerce Applications
                                                 </li>
                                                 <li>
                                                     <i className="flaticon-tick-1"></i>
-                                                    Digital content marketing online
+                                                    Travel, Navigation, Social Networking and Mobile Security Apps
+                                                </li>
+                                                <li>
+                                                    <i className="flaticon-tick-1"></i>
+                                                    Mobile Websites, Widget and Theme Development
+                                                </li>
+                                                <li>
+                                                    <i className="flaticon-tick-1"></i>
+                                                    Maintenance, Support, Migration and Testing of existing apps
                                                 </li>
                                             </ul>
 
@@ -84,7 +96,7 @@ class appdev extends Component {
 
                                     <div className="col-lg-5">
                                         <div className="tab-image-right">
-                                            <img src={require("../../images/pics/shopify.png")} alt="image" />
+                                            <img src={require("../../images/pics/ios7-animation.gif")} alt="image" />
                                         </div>
                                     </div>
                                 </div>
@@ -95,28 +107,36 @@ class appdev extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-5">
                                         <div className="tab-image-left">
-                                            <img src={require("../../images/pics/wd.jpg")} alt="image" />
+                                            <img src={require("../../images/pics/unnamed.gif")} alt="image" />
                                         </div>
                                     </div>
 
                                     <div className="col-lg-7">
                                         <div className="tab-solution-content">
-                                            <h3>Android</h3>
-                                            <p>We understand successful software solutions need bright ideas effectively implemented. Its not just about handling complex business logic’s, we go extra mile to simplify the whole process so that anybody can easily use it. Here are some of the web developement services we provide to our customers:</p>
+                                            <h3>All the services you need in android</h3>
+                                            <p>We provide a feature rich development environment by offering a rich combination of media support and optimized graphics.
+
+                                            Our offshore android application development services are charged affordably and are backed by experienced experts and proficient android programmers. With us, you can be assured of world class services with the highest probability of 100% success rate. It is you who possess the power to use the application as per your discretion.</p>
+
+                                            <h5>Our Android development services</h5>
 
                                             <ul className="tab-list">
                                                 <li>
                                                     <i className="flaticon-tick-1"></i>
-                                                    Product Engineering
+                                                    Android app development..
                                                 </li>
                                                 <li>
                                                     <i className="flaticon-tick-1"></i>
-                                                    E-Commerce Store
+                                                    Android Mobile and Web Development
                                                 </li>
                                                 <li>
                                                     <i className="flaticon-tick-1"></i>
-                                                    Enterprise Application Development
+                                                    Android Utility and Business App Development
                                                 </li>
+                                                <li>
+                                                <i className="flaticon-tick-1"></i>
+                                                Maintenance, Support and Migration of existing Android apps
+                                            </li>
                                             </ul>
 
                                             <div className="tab-btn">
@@ -136,21 +156,33 @@ class appdev extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-7">
                                         <div className="tab-solution-content">
-                                            <h3>DATABASE</h3>
-                                            <p>From developing native apps for Android and iOS platform to utilising modern technologies like React Native, we have extensive experience in developing mobile applications for both the platforms.</p>
+                                            <h3>Strong performance for mobile environments</h3>
+                                            <p>Our React native team leverage all the technological enhancements of React community and put them into benefits of our customers.
+
+                                            From small and simple mobile application development to multi-platform projects, we have the experience and expertise to turn your idea into reality. Our potentials and dedication to develop user-friendly and high-end react native applications take our initiative to the next level. We have developed innovative techniques for various fields including business, travel, entertainment, sports, finance and lots more. Indeed, we are here to provide a comprehensive react native application development services to efficiently meet all your requirements. With us, you are ensured to get interactive services at the best possible means.</p>
+
+                                            <h5>Our React Native development services:</h5>
 
                                             <ul className="tab-list">
                                                 <li>
                                                     <i className="flaticon-tick-1"></i>
-                                                    Innovation idea the latest business technology
+                                                    React Native Application Development
                                                 </li>
                                                 <li>
                                                     <i className="flaticon-tick-1"></i>
-                                                    Safe secure services for your online email account
+                                                    Utility and Business App Development
                                                 </li>
                                                 <li>
                                                     <i className="flaticon-tick-1"></i>
-                                                    Digital content marketing online
+                                                    Multimedia Application Development
+                                                </li>
+                                                <li>
+                                                    <i className="flaticon-tick-1"></i>
+                                                    Real-time chat applications
+                                                </li>
+                                                <li>
+                                                    <i className="flaticon-tick-1"></i>
+                                                    React Native eCommerce application
                                                 </li>
                                             </ul>
 
@@ -177,29 +209,54 @@ class appdev extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-5">
                                         <div className="tab-image-left">
-                                            <img src={require("../../images/pics/wordpress.png")} alt="image" />
+                                            <img src={require("../../images/pics/phonegap-camera-plugin.gif")} alt="image" />
                                         </div>
                                     </div>
 
                                     <div className="col-lg-7">
                                         <div className="tab-solution-content">
-                                            <h3>FRAMEWORK</h3>
-                                            <p>Mojitolabs has used WordPress extensively for creating all kinds of websites ranging from small blogging websites to large websites with hundreds of web pages. Our experienced WordPress website developers have created many add-ons by utilizing the extensible nature of WordPress. Our WordPress developers not only create a website but also optimize it for the search engines. We enjoy innovating new tools for developing best possible websites for our clients.</p>
+                                            <h3>Easy and rapidly build hybrid mobile applications.</h3>
+                                            <p>Phonegap is the best technology to get early market feedbacks of your business idea with lower cost. We help you in building a quick minimal viable product to know your customer reactions.
+
+                                            We provide a feature rich development environment by offering a rich combination of media support and optimized graphics. Our offshore phonegap development services are charged affordably and are backed by experienced experts and proficient phonegap programmers. With us, you can be assured of world class services with the highest probability of 100% success rate. It is you who possess the power to use the application as per your discretion.
+                                            
+                                            Our phonegap development services:
+                                            
+                                             Phonegap Application Development
+                                             Utility and Business App Development
+                                             Multimedia Application Development
+                                             Phonegap eCommerce application
+                                             Migration and Testing of existing apps into Phonegap
+                                             Phonegap eLearning Games
+                                             Real-time chat applications
+                                            </p>
+
+                                            <h5>Our phonegap development services:</h5>
 
                                             <ul className="tab-list">
                                                 <li>
                                                     <i className="flaticon-tick-1"></i>
-                                                    WordPress powers more than 23.4% of websites today
+                                                    Phonegap Application Development
                                                 </li>
                                                 <li>
                                                     <i className="flaticon-tick-1"></i>
-                                                    Nearly every web user has either heard, seen or used WordPress
+                                                    Utility and Business App Development
                                                 </li>
                                                 <li>
                                                     <i className="flaticon-tick-1"></i>
-                                                    Wordpress website development is the most sought after service today
+                                                    Multimedia Application Development
 
                                                 </li>
+                                                <li>
+                                                <i className="flaticon-tick-1"></i>
+                                                Migration and Testing of existing apps into Phonegap
+
+                                            </li>
+                                            <li>
+                                            <i className="flaticon-tick-1"></i>
+                                            Phonegap eLearning Games
+
+                                        </li>
                                             </ul>
 
                                             <div className="tab-btn">

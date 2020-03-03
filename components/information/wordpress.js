@@ -31,19 +31,19 @@ class wordpress extends Component {
                                 className="current"
                                 onClick={(e) => this.openTabSection(e, 'tab1')}
                             >
-                                <span>Shopify</span>
+                                <span>WORDPRESS</span>
                             </li>
 
                             <li onClick={(e) => this.openTabSection(e, 'tab2')}>
-                                <span>Web Development</span>
+                                <span>WORDPRESS</span>
                             </li>
 
                             <li onClick={(e) => this.openTabSection(e, 'tab3')}>
-                                <span>Mobile App Development</span>
+                                <span>WORDPRESS</span>
                             </li>
 
                             <li onClick={(e) => this.openTabSection(e, 'tab4')}>
-                                <span>Wordpress</span>
+                                <span>WORDPRESS</span>
                             </li>
                         </ul>
 

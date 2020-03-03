@@ -35,15 +35,15 @@ class shopifyinfo extends Component {
                             </li>
 
                             <li onClick={(e) => this.openTabSection(e, 'tab2')}>
-                                <span>Web Development</span>
+                                <span>SHOPIFY</span>
                             </li>
 
                             <li onClick={(e) => this.openTabSection(e, 'tab3')}>
-                                <span>Mobile App Development</span>
+                                <span>SHOPIFY</span>
                             </li>
 
                             <li onClick={(e) => this.openTabSection(e, 'tab4')}>
-                                <span>Wordpress</span>
+                                <span>SHOPIFY</span>
                             </li>
                         </ul>
 

@@ -22,12 +22,12 @@ class AboutUs extends Component {
                                 <ul className="about-list">
                                     <li>
                                         <i className="flaticon-tick"></i>
-                                        Professional Consultancy Service
+                                        Professional  Service
                                     </li>
                                    
                                     <li>
                                         <i className="flaticon-tick"></i>
-                                        Custom Service & Operation
+                                        Shopify Expert
                                     </li>
                                     <li>
                                         <i className="flaticon-tick"></i>

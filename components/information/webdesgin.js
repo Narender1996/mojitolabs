@@ -31,19 +31,19 @@ class webdesign extends Component {
                                 className="current"
                                 onClick={(e) => this.openTabSection(e, 'tab1')}
                             >
-                                <span>Shopify</span>
+                                <span>webdesign</span>
                             </li>
 
                             <li onClick={(e) => this.openTabSection(e, 'tab2')}>
-                                <span>Web Development</span>
+                                <span>Web DESGIN</span>
                             </li>
 
                             <li onClick={(e) => this.openTabSection(e, 'tab3')}>
-                                <span>Mobile App Development</span>
+                                <span>WEB DESGIN</span>
                             </li>
 
                             <li onClick={(e) => this.openTabSection(e, 'tab4')}>
-                                <span>Wordpress</span>
+                                <span>webdesign</span>
                             </li>
                         </ul>
 

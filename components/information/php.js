@@ -31,19 +31,19 @@ class php extends Component {
                                 className="current"
                                 onClick={(e) => this.openTabSection(e, 'tab1')}
                             >
-                                <span>Shopify</span>
+                                <span>FRAMEWORKS</span>
                             </li>
 
                             <li onClick={(e) => this.openTabSection(e, 'tab2')}>
-                                <span>Web Development</span>
+                                <span>DATABASE</span>
                             </li>
 
                             <li onClick={(e) => this.openTabSection(e, 'tab3')}>
-                                <span>Mobile App Development</span>
+                                <span>CMS & ECOMMERCE</span>
                             </li>
 
                             <li onClick={(e) => this.openTabSection(e, 'tab4')}>
-                                <span>Wordpress</span>
+                                <span>DEPLOYMENT</span>
                             </li>
                         </ul>
 
@@ -54,7 +54,7 @@ class php extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-7">
                                         <div className="tab-solution-content">
-                                            <h3>Shopify</h3>
+                                            <h3></h3>
                                             <p>Shopify is a subscription to a software service that offers you to create a website and use their shopping cart solution to sell, ship, and manage your products. Using their service, you can get access to easy to use admin panel where you can add products, process orders and enter store data</p>
 
                                             <ul className="tab-list">

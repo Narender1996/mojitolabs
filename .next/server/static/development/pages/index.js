@@ -2387,7 +2387,7 @@ class AboutUs extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
         lineNumber: 24
       },
       __self: this
-    }), "Professional Consultancy Service"), __jsx("li", {
+    }), "Professional  Service"), __jsx("li", {
       __source: {
         fileName: _jsxFileName,
         lineNumber: 28
@@ -2400,7 +2400,7 @@ class AboutUs extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
         lineNumber: 29
       },
       __self: this
-    }), "Custom Service & Operation"), __jsx("li", {
+    }), "Shopify Expert"), __jsx("li", {
       __source: {
         fileName: _jsxFileName,
         lineNumber: 32
@@ -2790,19 +2790,13 @@ class OurServices extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
         lineNumber: 9
       },
       __self: this
-    }, __jsx("span", {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 10
-      },
-      __self: this
-    }, "Our Services"), __jsx("h2", {
+    }, __jsx("h2", {
       __source: {
         fileName: _jsxFileName,
         lineNumber: 11
       },
       __self: this
-    }, "Explore Our  Services")), __jsx("div", {
+    }, " Our  Services")), __jsx("div", {
       className: "row align-items-center",
       __source: {
         fileName: _jsxFileName,
@@ -4553,106 +4547,100 @@ class shopify extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
       className: "services-details-area ptb-100",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 6
+        lineNumber: 7
       },
       __self: this
     }, __jsx("div", {
       className: "container",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 7
+        lineNumber: 8
       },
       __self: this
     }, __jsx("div", {
       className: "services-details-overview",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 8
+        lineNumber: 9
       },
       __self: this
     }, __jsx("div", {
       className: "row align-items-center",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 9
+        lineNumber: 10
       },
       __self: this
     }, __jsx("div", {
       className: "col-lg-6 col-md-12",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 10
+        lineNumber: 11
       },
       __self: this
     }, __jsx("div", {
       className: "services-details-desc",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 11
+        lineNumber: 12
       },
       __self: this
     }, __jsx("h3", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 12
-      },
-      __self: this
-    }, "Expolre Our Data Services"), __jsx("p", {
-      __source: {
-        fileName: _jsxFileName,
         lineNumber: 13
       },
       __self: this
-    }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip."), __jsx("div", {
+    }, "Shopify services"), __jsx("div", {
       className: "features-text",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 15
-      },
-      __self: this
-    }, __jsx("h4", {
       __source: {
         fileName: _jsxFileName,
         lineNumber: 16
       },
       __self: this
-    }, "Managed Analytics"), __jsx("p", {
+    }, __jsx("h4", {
       __source: {
         fileName: _jsxFileName,
         lineNumber: 17
       },
       __self: this
-    }, "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit.")), __jsx("div", {
-      className: "features-text",
+    }, "Beautiful themes that are responsive and customizable"), __jsx("p", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 20
+        lineNumber: 18
       },
       __self: this
-    }, __jsx("h4", {
+    }, "No design skills needed. You have complete control over the look and feel of your website, from its layout, to content and colors.")), __jsx("div", {
+      className: "features-text",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 21
       },
       __self: this
-    }, "Business Intelligence"), __jsx("p", {
+    }, __jsx("h4", {
       __source: {
         fileName: _jsxFileName,
         lineNumber: 22
       },
       __self: this
-    }, "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.")))), __jsx("div", {
+    }, "Trusted by over 1,000,000 businesses worldwide"), __jsx("p", {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 23
+      },
+      __self: this
+    }, "Shopify handles everything from marketing and payments, to secure checkout and shipping")))), __jsx("div", {
       className: "col-lg-6 col-md-12",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 27
+        lineNumber: 28
       },
       __self: this
     }, __jsx("div", {
       className: "services-details-image",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 28
+        lineNumber: 29
       },
       __self: this
     }, __jsx("img", {
@@ -4660,35 +4648,35 @@ class shopify extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
       alt: "image",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 29
+        lineNumber: 30
       },
       __self: this
     }))))), __jsx("div", {
       className: "services-details-overview",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 35
+        lineNumber: 36
       },
       __self: this
     }, __jsx("div", {
       className: "row align-items-center",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 36
+        lineNumber: 37
       },
       __self: this
     }, __jsx("div", {
       className: "col-lg-6 col-md-12",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 37
+        lineNumber: 38
       },
       __self: this
     }, __jsx("div", {
       className: "services-details-image",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 38
+        lineNumber: 39
       },
       __self: this
     }, __jsx("img", {
@@ -4696,71 +4684,65 @@ class shopify extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
       alt: "image",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 39
+        lineNumber: 40
       },
       __self: this
     }))), __jsx("div", {
       className: "col-lg-6 col-md-12",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 43
+        lineNumber: 44
       },
       __self: this
     }, __jsx("div", {
       className: "services-details-desc",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 44
+        lineNumber: 45
       },
       __self: this
     }, __jsx("h3", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 45
-      },
-      __self: this
-    }, "We Provide Useful Services"), __jsx("p", {
-      __source: {
-        fileName: _jsxFileName,
         lineNumber: 46
       },
       __self: this
-    }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip."), __jsx("div", {
+    }, "why choose shopify"), __jsx("div", {
       className: "features-text",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 48
-      },
-      __self: this
-    }, __jsx("h4", {
       __source: {
         fileName: _jsxFileName,
         lineNumber: 49
       },
       __self: this
-    }, "Managed Analytics"), __jsx("p", {
+    }, __jsx("h4", {
       __source: {
         fileName: _jsxFileName,
         lineNumber: 50
       },
       __self: this
-    }, "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit.")), __jsx("div", {
-      className: "features-text",
+    }, "Pricing as low as $29/month"), __jsx("p", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 53
+        lineNumber: 51
       },
       __self: this
-    }, __jsx("h4", {
+    }, "Whether you sell online, on social media, in store, or out of the trunk of your car, Shopify has you covered. Start selling anywhere for just $29/month.")), __jsx("div", {
+      className: "features-text",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 54
       },
       __self: this
-    }, "Business Intelligence"), __jsx("p", {
+    }, __jsx("h4", {
       __source: {
         fileName: _jsxFileName,
         lineNumber: 55
+      },
+      __self: this
+    }, "Business Intelligence"), __jsx("p", {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 56
       },
       __self: this
     }, "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."))))))));
